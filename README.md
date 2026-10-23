@@ -2,10 +2,10 @@
 
 [![Crates.io](https://img.shields.io/crates/v/tuplities.svg)](https://crates.io/crates/tuplities)
 [![Documentation](https://docs.rs/tuplities/badge.svg)](https://docs.rs/tuplities)
-[![CI](https://github.com/LucaCappelletti94/tuplities/workflows/Rust%20CI/badge.svg)](https://github.com/LucaCappelletti94/tuplities/actions)
-[![Security Audit](https://github.com/LucaCappelletti94/tuplities/workflows/Security%20Audit/badge.svg)](https://github.com/LucaCappelletti94/tuplities/actions)
+[![CI](https://github.com/connetto-rs/tuplities/workflows/Rust%20CI/badge.svg)](https://github.com/connetto-rs/tuplities/actions)
+[![Security Audit](https://github.com/connetto-rs/tuplities/workflows/Security%20Audit/badge.svg)](https://github.com/connetto-rs/tuplities/actions)
 [![License MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Codecov](https://codecov.io/gh/LucaCappelletti94/tuplities/branch/main/graph/badge.svg)](https://codecov.io/gh/LucaCappelletti94/tuplities)
+[![Codecov](https://codecov.io/gh/connetto-rs/tuplities/branch/main/graph/badge.svg)](https://codecov.io/gh/connetto-rs/tuplities)
 
 Recursive heterogeneous tuple utilities for `no_std` Rust. Use `neple!` to construct lists and `neplety!` to name their types. Traits and macros are available at the crate root and through `tuplities::prelude`.
 
