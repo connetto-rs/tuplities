@@ -3,8 +3,14 @@ name: Workflow validation
 on:
   push:
     branches: [main]
+    paths:
+      - .github/**
   pull_request:
     branches: [main]
+    paths:
+      - .github/**
+  schedule:
+    - cron: '0 4 * * 1'
 
 permissions:
   contents: read
