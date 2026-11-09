@@ -104,7 +104,7 @@ jobs:
         with:
           toolchain: nightly
           components: llvm-tools-preview
-      - uses: taiki-e/install-action@e407f7bafb71fd004bc5c2da3032e5470cbb6ef0
+      - uses: taiki-e/install-action@c509219cf42fba86913069efd0ade2458c59337b
         with:
           tool: cargo-llvm-cov
           fallback: none
